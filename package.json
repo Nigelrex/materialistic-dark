@@ -1,0 +1,25 @@
+{
+  "name": "materialistic-dark",
+  "displayName": "Materialistic Dark",
+  "description": "The one that doesn't hurt",
+  "version": "0.0.1",
+  "tags": [
+    "dark",
+    "color-theme"
+  ],
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Materialistic Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Materialistic Dark-color-theme.json"
+      }
+    ]
+  }
+}
