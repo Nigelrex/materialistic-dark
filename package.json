@@ -21,5 +21,13 @@
         "path": "./themes/Materialistic Dark-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "url": "https://github.com/Nigelrex/materialistic-dark",
+    "type": "git"
+  },
+  "author": {
+    "name": "Nigelrex",
+    "url": "https://nigelrex.netlify.app"
   }
 }
